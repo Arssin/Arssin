@@ -10,7 +10,6 @@
 - 🏆 Currently focused on Front-End skills, but want to become Full Stack in future!
 - 🥋 Free time? Brazilian Jiu-Jitsu!
 
-
 ---
 
 
