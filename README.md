@@ -7,7 +7,7 @@
 - 🤓 I am a Master of Logistics who has found his passion in programming
 - 👀 I am eager to develop my skills and look for new challenges
 - 🎓 CodersCamp 2021/2022 and DaftAcademy courses graduate
-- 🏆 Indie gamedev after work hours! [check my X]([https://x.com/home](https://x.com/ArssinDev))
+- 🏆 Indie gamedev after work hours! [check my X](https://x.com/ArssinDev)
 
 ---
 
